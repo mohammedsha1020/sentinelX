@@ -1,0 +1,7 @@
+{
+  "Name": "Ransomware Activity",
+  "Keyword": "encrypt",
+  "RegexPattern": ".*file.*encrypt.*|.*ransomware.*",
+  "Severity": "Critical",
+  "Description": "Detects potential ransomware encryption activities"
+} 

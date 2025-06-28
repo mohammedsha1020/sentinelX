@@ -1,0 +1,7 @@
+{
+  "Name": "SSH Brute Force Attack",
+  "Keyword": "SSH",
+  "RegexPattern": ".*failed.*password.*",
+  "Severity": "High",
+  "Description": "Detects SSH brute force attacks and failed login attempts"
+} 

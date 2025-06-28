@@ -1,0 +1,7 @@
+{
+  "Name": "Port Scan Detection",
+  "Keyword": "port scan",
+  "RegexPattern": ".*connection.*attempt.*",
+  "Severity": "Medium",
+  "Description": "Detects potential port scanning activities"
+} 
